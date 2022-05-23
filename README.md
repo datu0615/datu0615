@@ -28,6 +28,10 @@
     </p>
 
     
+ ![datu0615's github stats](https://github-readme-stats.vercel.app/api?username=datu0615&show_icons=true&theme=dark)
+[![datu0615's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=datu0615&show_icons=true&hide_border=true&title_color=495057&icon_color=495057&layout=compact&theme=dark)](https://github.com/datu0615)   
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=datu0615&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)    
 <!--
 **datu0615/datu0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
