@@ -25,9 +25,9 @@
 <h4 align='center'> Chung-Ang University Graduate School of AI</h4>
 
 <h3 align='center'> 🌱 I’m currently learning ...</h3>
-<h4 align='center'> Small/Tiny Object Detection</h4>
-<h4 align='center'> EO/IR Fusion Object Detection</h4>
-<h4 align='center'> Visual Grounding</h4>
+<h4 align='center'>Small/Tiny Object Detection</h4>
+<h4 align='center'>EO/IR Fusion Object Detection</h4>
+<h4 align='center'>Visual Grounding</h4>
 
 <h3 align='center'> 📬 How to reach me: ...</h3>
 <p align='center'>
