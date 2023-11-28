@@ -26,11 +26,6 @@
 <h4 align='center'>EO/IR Fusion Object Detection</h4>
 <h4 align='center'>Visual Grounding</h4>
 
-<h3 align='center'> 📬 How to reach me: ...</h3>
-<p align='center'>
-  <a href='mailto:datu0615@gmail.com'><img src='https://img.shields.io/badge/-Gmail-critical'>&nbsp
-  <a href='mailto:junbo0615@naver.com'><img src='https://img.shields.io/badge/-NAVER-green'><br>
-    </p>
 
     
 <!--  ![datu0615's github stats](https://github-readme-stats.vercel.app/api?username=datu0615&show_icons=true&theme=dark)
@@ -53,4 +48,10 @@ Here are some ideas to get you started:
 
 <h3 align='center'> 🔭 I’m currently working on ...</h3>
 <h4 align='center'> Chung-Ang University Graduate School of AI</h4>
+
+<h3 align='center'> 📬 How to reach me: ...</h3>
+<p align='center'>
+  <a href='mailto:datu0615@gmail.com'><img src='https://img.shields.io/badge/-Gmail-critical'>&nbsp
+  <a href='mailto:junbo0615@naver.com'><img src='https://img.shields.io/badge/-NAVER-green'><br>
+    </p>
 -->
