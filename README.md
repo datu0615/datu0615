@@ -21,8 +21,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 </p>
 
+<!-- 
 <h3 align='center'> 🔭 I’m currently working on ...</h3>
 <h4 align='center'> Chung-Ang University Graduate School of AI</h4>
+-->
 
 <h3 align='center'> 🌱 I’m currently learning ...</h3>
 <h4 align='center'>Small/Tiny Object Detection</h4>
