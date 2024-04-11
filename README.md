@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=black&text=Junbo%20Jang%20&height=300&fontSize=100&fontColor=ffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=black&text=%20%20&height=300&fontSize=100&fontColor=ffff)
 
 <h2 align='center'> Hi there 👋 </h2>
 
